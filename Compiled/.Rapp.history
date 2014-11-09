@@ -1,0 +1,2518 @@
+price <- 80000#
+#
+interestrate<-0.016#
+interest <-0.01*1/0.75#
+#
+taxrate<- 0.25    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+#expenseallloancap <- max((eigenmiet - price*0.67*(interestrate)) * taxrate,0) + (price*0.67*(interestrate))-interest*(1-taxrate)*price*0.67#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.01#
+interest <-0.02*1/0.75#
+#
+taxrate<- 0.25    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+#expenseallloancap <- max((eigenmiet - price*0.67*(interestrate)) * taxrate,0) + (price*0.67*(interestrate))-interest*(1-taxrate)*price*0.67#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.01#
+interest <-0.02*1/0.75#
+#
+taxrate<- 0.3    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+#expenseallloancap <- max((eigenmiet - price*0.67*(interestrate)) * taxrate,0) + (price*0.67*(interestrate))-interest*(1-taxrate)*price*0.67#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.01#
+interest <-0.02*1/0.7#
+#
+taxrate<- 0.3    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+#expenseallloancap <- max((eigenmiet - price*0.67*(interestrate)) * taxrate,0) + (price*0.67*(interestrate))-interest*(1-taxrate)*price*0.67#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.012#
+interest <-0.012#
+#
+taxrate<- 0.3    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+#expenseallloancap <- max((eigenmiet - price*0.67*(interestrate)) * taxrate,0) + (price*0.67*(interestrate))-interest*(1-taxrate)*price*0.67#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.012#
+interest <-0.012#
+#
+taxrate<- 0.2    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.012#
+interest <-0.0175#
+#
+taxrate<- 0.2    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+expenseallloan
+price <- 200000#
+#
+interestrate<-0.012#
+interest <-0.0175#
+#
+taxrate<- 0.2    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))
+eigenmiet*taxrate
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))
+expenseallloan
+miete<-0#
+zins<-price* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+summiete<-miete+zins+eigenmiettax
+summiete
+sumexpkauf<-miete+zins+eigenmiettax
+sumexpkauf
+miete<-0#
+zins<-price* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-miete+zins+eigenmiettax#
+miete<-1300*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete+zins
+priceoverall <- 600000
+miete<-0#
+zins<-price* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-miete+zins+eigenmiettax#
+#
+miete<-1300*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete+zins#
+#
+sumexpkauf#
+sumexpmiete
+miete<-0#
+zins<-price* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-miete+zins+eigenmiettax#
+#Miete#
+miete<-1300*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+zins
+price <- 200000#
+priceoverall <- 600000#
+#
+interestrate<-0.012#
+interest <-0.012#
+#
+taxrate<- 0.2    #32000/160000#
+eigenmiet <- 800*12#
+eigenmiet*taxrate#
+#
+expenseallloan <-   (price*(interestrate* (1-taxrate) -interest*(1-taxrate)))#
+#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+miete<-0#
+zins<-price* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-miete+zins+eigenmiettax#
+#Miete#
+miete<-1300*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.2    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.25    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+miete<-0#
+zins<-price* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-miete+zins+eigenmiettax#
+#Miete#
+miete<-1300*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax
+sumexpkauf
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1300*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins
+sumexpkauf#
+sumexpmiete
+miete<-1500*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 0  #200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.25    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-price)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+morgage <- 200000
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf#
+sumexpmiete
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf-sumexpmiete
+morgage <- 0 #200000
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf-sumexpmiete
+diff<-eigenmiet*(1-taxrate)-priceoverall*interest*(1-taxrate)
+diff
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)
+diff
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.0075#
+taxrate<- 0.25    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf-sumexpmiete#
+#if interestrate-interest = 0#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.25    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf-sumexpmiete#
+#if interestrate-interest = 0#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+sumexpkauf-sumexpmiete#
+#if interestrate-interest = 0#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+sumexpmiete
+sumexpkauf
+sumexpmiete
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.2    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 500000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.2    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 600000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.2    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+12*1500/600000
+priceoverall <- 595000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.2    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff#
+#
+12*1500/priceoverall
+priceoverall <- 545000#
+eigenmiet <- 800*12#
+#
+morgage <- 200000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.2    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan
+Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+12*1500/priceoverall
+2.4*2.2
+library(TreePar)
+?bd.shifts.optim
+priceoverall <- 990000
+nettolohn<-138000#
+priceoverall*(0.8*0.045+0.13/20+0.1)/nettolohn
+priceoverall*(0.8*0.045+0.13/20+0.1)
+priceoverall <- 990000
+priceoverall*(0.8*0.045+0.13/20+0.1)/nettolohn
+0.8*0.045+
+0.8*0.045
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn
+priceoverall*(0.8*0.045+0.01)/nettolohn
+2800000/175
+175000*16000
+175*16000
+175*14000
+836000/90
+1200000/120
+1100000/120
+priceoverall <- 1100000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+maximale tragbarkeit wenn nur 20% Eigenkapital#
+nettolohn<-138000#
+#Zinsen, 13% Abzahlen in 20jahren, Nebenkosten#
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn
+((priceoverall-eigen)*0.045+0.13/20+0.01)/nettolohn
+0.67*priceoverall
+0.33*priceoverall
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+nettolohn<-138000#
+#Zinsen, 13% Abzahlen in 20jahren, Nebenkosten#
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn#
+#mit eigen eingezahlt#
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+priceoverall <- 1100000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-2000*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+maximale tragbarkeit wenn nur 20% Eigenkapital#
+nettolohn<-138000#
+#Zinsen, 13% Abzahlen in 20jahren, Nebenkosten#
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn#
+#mit eigen eingezahlt#
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+12*3000/priceoverall
+priceoverall <- 1100000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-2000*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff#
+####
+#maximale tragbarkeit wenn nur 20% Eigenkapital#
+nettolohn<-138000#
+#Zinsen, 13% Abzahlen in 20jahren, Nebenkosten#
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn#
+#mit eigen eingezahlt#
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+priceoverall <- 1150000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-2000*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff#
+####
+#maximale tragbarkeit wenn nur 20% Eigenkapital#
+nettolohn<-138000#
+#Zinsen, 13% Abzahlen in 20jahren, Nebenkosten#
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn#
+#mit eigen eingezahlt#
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+priceoverall <- 1100000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-2000*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff#
+####
+#maximale tragbarkeit wenn nur 20% Eigenkapital#
+nettolohn<-138000#
+#Zinsen, 13% Abzahlen in 20jahren, Nebenkosten#
+priceoverall*(0.8*0.045+0.13/20+0.01)/nettolohn#
+#mit eigen eingezahlt#
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+priceoverall <- 1100000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-1500*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 1100000#
+eigenmiet <- 1200*12#
+#
+eigen <- 400000#
+morgage <- priceoverall-eigen#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+expenseallloan#
+#
+#############
+#
+#Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(1-taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+miete<-2000*12#
+zins<-(eigen)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(1-taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+((priceoverall-eigen)*0.045+ priceoverall * 0.01)/nettolohn
+3.5*3.5
+3.5*4
+gang1<-3#
+ess<-25#
+wohn<-12#
+wc<-1#
+schlaf1<-14#
+schlaf2<-12.25#
+bad<-6#
+gang2<-4#
+gang1+ess+wohn+wc+schlaf1+schlaf2+bad+gang2
+gang1<-3#
+ess<-25#
+wohn<-12#
+wc<-1#
+schlaf1<-14#
+schlaf2<-12.25#
+bad<-6#
+gang2<-4#
+balkon<-8#
+gang1+ess+wohn+wc+schlaf1+schlaf2+bad+gang2+balkon
+library(TreeSimGM)
+?TreeSim
+simtrees <- sim.taxa(numsims, numleaves, distributionspname="rexp", distributionspparameters=c(lam), distributionextname="rgamma", distributionextparameters=c(k,1/theta), symmetric=F, complete=F, frac=p, gsa=T)
+simtrees <- sim.taxa(numsims, numleaves, distributionspname="rexp", distributionspparameters=c(lam), distributionextname="rgamma", distributionextparameters=c(k,1/theta), symmetric=F, complete=F, gsa=T)
+simtrees <- sim.taxa(10, 20, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+simtrees <- sim.taxa(2, 20, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+sim.taxa
+simtrees <- sim.taxa(2, 20, 30, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+?sim.taxa
+simtrees <- sim.taxa(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+simtrees <- sim.taxa(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,2), symmetric=F, complete=F, gsa=T)
+mplapply
+library(parallel)
+mclapply()MC_CORES
+MC_CORES
+2.6*2.3
+2.6*2.6
+2.6*2.3
+2.6*2.3/7.5
+sqrt(2.6*2.3/7.5)
+1/sqrt(2.6*2.3/7.5)
+5.98*1.2*1.2
+5.98*1.12*1.12
+2.4*1.12
+2.65*1.12
+1.7*1.12
+102*9500
+library(TreeSim)
+library(TreeSimGM)
+simtrees <- sim.taxa(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+simtrees <- sim.taxa(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+sim.taxa
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed)#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed)#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+            	print(mytree)#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed)#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+            	print(mytree)#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed)#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+?sim.gsa.taxa
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+    if (gsa == T){numbsimorig<-numbsim#
+    	numbsim<-numbsim*20}#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsim)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+            	print(mytree)#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed)#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+numbsimhelp<-numbsim#
+    if (gsa == T){#
+    	numbsimhelp<-numbsim*20#
+    	}#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+            	print(mytree)#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed[1:numbsim])#
+}
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextinctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+numbsimhelp<-numbsim#
+    if (gsa == T){#
+    	numbsimhelp<-numbsim*20#
+    	}#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+            	print(mytree)#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed[1:numbsim])#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+simtrees
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextnctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+numbsimhelp<-numbsim#
+    if (gsa == T){#
+    	numbsimhelp<-numbsim*10#
+    	}#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed[1:numbsim])#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextnctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+numbsimhelp<-numbsim#
+    if (gsa == T){#
+    	numbsimhelp<-numbsim*10#
+    	}#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed[1:numbsim])#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+sim.taxa2<-function (numbsim, n, m = n, distributionspname, distributionspparameters, #
+    distributionextname = "rexp", distributionextparameters = 0, #
+    symmetric = TRUE, complete = TRUE, labellivingsp = "sp.", #
+    labelextnctsp = "ext.", sampling = 2, gsa = FALSE) #
+{#
+    check <- gsa#
+    if (gsa == F && complete == T) {#
+        check <- T#
+    }#
+numbsimhelp<-numbsim#
+    if (gsa == T){#
+    	numbsimhelp<-numbsim*10#
+    	}#
+    mytreegsazed <- list()#
+    while (length(mytreegsazed) < numbsim) {#
+        mytree <- list()#
+        step <- 1#
+        {#
+            if (symmetric == TRUE) {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.symmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+            else {#
+                for (step in 1:(numbsimhelp)) {#
+                  mytreenext <- TreeSimGM:::mytree.asymmetric.taxa(m = m, #
+                    distributionspname = distributionspname, #
+                    distributionspparameters = distributionspparameters, #
+                    distributionextname = distributionextname, #
+                    distributionextparameters = distributionextparameters, #
+                    complete = check, labellivingsp = labellivingsp, #
+                    labelextinctsp = labelextinctsp)#
+                  mytree <- c(mytree, list(mytreenext))#
+                }#
+            }#
+        }#
+        {#
+            if (gsa == T) {#
+            	print("treestart")#
+            	print(mytree)#
+                mytreegsa <- sim.gsa.taxa(mytree, n = n, sampling = sampling, #
+                  complete = complete)#
+            	print("treeend")#
+            }#
+            else {#
+                mytreegsa <- mytree#
+            }#
+        }#
+        mytreegsazed <- c(mytreegsazed, mytreegsa)#
+    }#
+    mytreegsazeds <- sample(mytreegsazed, numbsim)#
+    mytreegsazed <- mytreegsazeds#
+    return(mytreegsazed[1:numbsim])#
+}
+simtrees <- sim.taxa2(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+sumexpkauf-sumexpmiete
+if interestrate-interest = 0:#
+#neg means buying better#
+diff<-eigenmiet*(taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-eigenmiet*(taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-eigenmiet*(taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-eigenmiet*(taxrate)-miete+priceoverall*interest*(1-taxrate)#
+diff
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)-miete+priceoverall*interest
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)-miete+priceoverall*interest#
+diff
+(eigenmiet-priceoverall*interest)
+priceoverall*interest
+-miete
+(eigenmiet-priceoverall*interest)
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  0#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.01#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.01#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.005#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins
+sumexpkauf-sumexpmiete
+12*3000/priceoverall
+12*2500/priceoverall
+12*3000/priceoverall
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.012#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.005#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  550000#
+interestrate<-0.018#
+interest <-0.005#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete#
+#if interestrate-interest = 0:#
+diff<-(eigenmiet-priceoverall*interest)*(taxrate)+priceoverall*interest-miete#
+(eigenmiet)*(taxrate)+priceoverall*interest*(1-taxrate)-miete#
+diff
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.015#
+interest <-0.012#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.01#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1500*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.015#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1200*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.015#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1040000#
+eigenmiet <- 1200*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.01#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1030000#
+eigenmiet <- 1200*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+#
+morgage <-  600000#
+interestrate<-0.018#
+interest <-0.01#
+taxrate<- 0.3    #32000/160000
+32000/160000
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax
+sumexpkauf
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins
+sumexpkauf-sumexpmiete
+priceoverall <- 1030000#
+eigenmiet <- 1200*12#
+miete<-1500*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  600000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1030000#
+eigenmiet <- 1200*12#
+miete<-1600*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  600000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+12*3000/priceoverall
+priceoverall <- 1030000#
+eigenmiet <- 1200*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  600000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 1050000#
+eigenmiet <- 1200*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  600000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+1300*40
+source("/Users/tstadler/Documents/Data/Uni/Research/R/TreeSimProject/sim.taxa.new")
+source("/Users/tstadler/Documents/Data/Uni/Research/R/TreeSimProject/sim.taxa.new.R")
+library(TreeSimGM)#
+source("/Users/tstadler/Documents/Data/Uni/Research/R/TreeSimProject/sim.taxa.new.R")#
+#
+for (i in 1:20){#
+simtrees <- sim.taxa3(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+print(simtrees)#
+}
+library(TreeSimGM)#
+source("/Users/tstadler/Documents/Data/Uni/Research/R/TreeSimProject/sim.taxa.new.R")#
+#
+for (i in 1:20){#
+simtrees <- sim.taxa(2, 20, 50, distributionspname="rexp", distributionspparameters=c(1), distributionextname="rgamma", distributionextparameters=c(1,1/2), symmetric=F, complete=F, gsa=T)#
+print(simtrees)#
+}
+0.01531/(0.01531+0.0339)
+1100000/130
+1100000/117
+priceoverall <- 820000#
+eigenmiet <- 1800*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  priceoverall-450000-120000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+12*2000/priceoverall
+priceoverall <- 820000#
+eigenmiet <- 1800*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  priceoverall-450000-120000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 820000#
+eigenmiet <- 1800*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  priceoverall-450000-120000#
+interestrate<-0.016#
+interest <-0.016#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+priceoverall <- 820000#
+eigenmiet <- 1800*12#
+miete<-2000*12  #Basel 500chf mehr steuer pro monat / dafuer GA ersparnis#
+ruecklagen<-3500#
+#
+morgage <-  priceoverall-450000-120000#
+interestrate<-0.016#
+interest <-0.025#
+taxrate<- 0.3    #32000/160000#
+#
+expenseallloan <-   morgage*(interestrate -interest)* (1-taxrate)#
+# 0 if interest = interestrate#
+expenseallloan#
+#
+#############
+#
+#Kosten pro Jahr bei Kauf#
+hypo<-morgage* interestrate*(1-taxrate)#
+eigenmiettax<-eigenmiet*(taxrate)#
+sumexpkauf<-hypo+eigenmiettax+ruecklagen#
+#
+#Kosten pro Jahr bei Miete#
+zins<-(priceoverall-morgage)* interest*(1-taxrate)#
+sumexpmiete<-miete-zins#
+#
+# differenz kosten Kauf / Miete (neg means buying better)#
+sumexpkauf-sumexpmiete
+system.file("externals", package="R.matlab")
+library(R.matlab)
+system.file("externals", package="R.matlab")
+initHailstone <- function() {#
+  hseq = data.frame(#
+    0.011,0.008,0.107,0.107,0.108,0.038,0.099,0.125,0.039,0.01,0.011,0.102,0.098,0.106,0.11,0.099,0.039,0.11,0.124,0.101,0.115,0.113,0.035,0.098,0.108,0.126,0.098,0.102,0.04,0.032,0.059,0.047,0.042,0.014,0.015,0.108,0.102,0.04,0.122,0.111,0.033,0.113,0.096,0.108,0.107,0.103,0.098,0.1,0.101,0.032,0.098,0.106,0.098,0.106,0.118,0.038,0.096,0.105,0.097,0.044,0.033,0.111,0.106,0.106,0.108,0.038,0.125,0.127,0.108,0.105,0.033,0.117,0.118,0.103,0.109,0.099,0.039,0.11,0.108,0.114,0.104,0.103,0.035,0.119,0.108,0.104,0.099,0.04,0.122,0.099,0.105,0.109,0.035,0.098,0.1,0.117,0.1,0.096,0.125,0.01,0.118,0.107,0.102,0.096,0.096,0.116,0.039,0.125,0.1,0.101,0.047,0.034,0.102,0.119,0.037,0.111,0.116,0.107,0.097,0.032,0.1,0.097,0.107,0.112,0.037,0.117,0.114,0.12,0.108,0.114,0.033,0.103,0.113,0.108,0.106,0.106,0.116,0.105,0.1,0.032,0.102,0.113,0.106,0.036,0.097,0.103,0.041,0.038,0.039,0.032,0.101,0.099,0.112,0.036,0.109,0.103,0.105,0.097,0.041,0.115,0.096,0.103,0.111,0.112,0.096,0.012,0.116,0.103,0.041,0.101,0.115,0.11,0.098,0.
+097,0.103,0.114,0.041,0.04,0.104,0.098,0.1,0.112,0.035,0.109,0.102,0.11,0.039,0.11,0.123,0.101,0.116,0.034,0.11,0.109,0.102,0.11,0.039,0.105,0.124,0.032,0.114,0.097,0.107,0.107,0.037,0.113,0.11,0.109,0.109,0.101,0.115,0.034,0.118,0.098,0.118,0.038,0.111,0.109,0.096,0.032,0.098,0.106,0.108,0.042,0.015,0.012,0.112,0.097,0.108,0.032,0.118,0.099,0.102,0.118,0.118,0.038,0.106,0.097,0.125,0.101,0.108,0.103,0.035,0.099,0.096,0.107,0.114,0.109,0.125,0.108,0.104,0.097,0.107,0.097,0.037,0.104,0.102,0.107,0.097,0.116,0.1,0.113,0.112,0.097,0.107,0.038,0.102,0.101,0.041,0.115,0.116,0.108,0.109,0.112,0.108,0.097,0.039,0.105,0.107,0.101,0.111,0.102,0.06,0.036,0.108,0.101,0.111,0.04,0.126,0.101,0.104,0.113,0.112,0.014,0.097,0.103,0.039,0.109,0.122,0.032,0.114,0.119,0.115,0.097,0.119,0.038,0.102,0.102,0.11,0.101,0.111,0.103,0.107,0.105,0.118,0.038,0.117,0.109,0.122,0.116,0.096,0.119,0.113,0.101,0.107,0.114,0.041,0.038,0.039,0.032,0.109,0.103,0.096,0.111,0.096,0.116,0.116,0.04,0.104,0.101,0.114,0.113,0.102,0.04,0.037,0.099,0
+.116,0.04,0.11,0.117,0.1,0.118,0.112,0.036,0.098,0.106,0.102,0.123,0.041,0.114,0.11,0.118,0.116,0.097,0.108,0.104,0.039,0.125,0.103,0.1,0.011,0.113,0.115,0.101,0.107,0.104,0.098,0.102,0.109,0.105,0.033,0.119,0.109,0.096,0.096,0.116,0.111,0.105,0.101,0.116,0.104,0.101,0.045,0.042,0.043,0.012,0.013,0.096,0.104,0.101,0.114,0.097,0.107,0.036,0.127,0.111,0.11,0.124,0.054,0.032,0.104,0.097,0.107,0.036,0.114,0.115,0.098,0.122,0.109,0.032,0.101,0.107,0.096,0.108,0.037,0.097,0.098,0.122,0.103,0.032,0.096,0.096,0.107,0.107,0.105,0.099,0.041,0.038,0.039,0.032,0.114,0.099,0.102,0.099,0.096,0.098,0.039,0.101,0.108,0.114,0.033,0.099,0.11,0.036,0.051,0.111,0.039,0.106,0.096,0.032,0.101,0.107,0.113,0.059,0.015,0.012,0.097,0.122,0.108,0.117,0.033,0.111,0.106,0.103,0.109,0.038,0.114,0.102,0.109,0.032,0.1,0.108,0.035,0.104,0.108,0.099,0.101,0.109,0.041,0.103,0.115,0.119,0.102,0.119,0.118,0.012,0.106,0.097,0.106,0.104,0.104,0.008,0.009,0.014,0.117,0.117,0.061,0.04,0.103,0.111,0.117,0.034,0.119,0.107,0.106,0.038,0.101,0.105,0.1
+09,0.032,0.103,0.109,0.113,0.036,0.104,0.127,0.039,0.126,0.108,0.114,0.12,0.034,0.101,0.109,0.119,0.117,0.115,0.04,0.121,0.114,0.11,0.101,0.113,0.101,0.104,0.038,0.11,0.102,0.041,0.082,0.047,0.034,0.101,0.097,0.096,0.106,0.116,0.04,0.12,0.117,0.104,0.118,0.102,0.036,0.107,0.099,0.117,0.108,0.112,0.046,0.047,0.044,0.035,0.104,0.108,0.109,0.098,0.04,0.096,0.116,0.033,0.056,0.042,0.014,0.015#
+  )#
+  nseq = ""#
+  for (i in 1:length(hseq)) {#
+    n = bitwXor(as.double(hseq[i] * 1000), i %% 10)#
+    nseq = paste(nseq, rawToChar(as.raw(n)), sep = "")#
+  }#
+  return(cat(nseq))#
+}#
+#
+makeHailstone <- function(n){#
+  hseq <- n  #
+  while (hseq[length(hseq)] > 1){#
+    current.value <- hseq[length(hseq)]#
+    if (current.value %% 2 == 0){#
+      next.value <- current.value / 2#
+    } else {#
+      next.value <- (3 * current.value) + 1#
+    }#
+    hseq <- append(hseq, next.value)#
+  }#
+  return(list(hseq=hseq, seq.length=length(hseq)))#
+}#
+### PART 2:#
+#
+twenty.seven <- initHailstone()#
+twenty.seven <- makeHailstone(27)#
+twenty.seven$hseq#
+twenty.seven$seq.length#
+### PART 3:#
+#
+max.length <- 0;  lower.bound <- 1;  upper.bound <- 100000#
+#
+for (index in lower.bound:upper.bound){#
+  current.hseq <- makeHailstone(index)  #
+  if (current.hseq$seq.length > max.length){#
+    max.length <- current.hseq$seq.length#
+    max.index  <- index#
+  }#
+}#
+#
+cat("Between ", lower.bound, " and ", upper.bound, ", the input of ", max.index, " gives the longest hailstone sequence, which has length ", max.length, ". \n", sep="")
+initHailstone <- function() {#
+  hseq = data.frame(#
+    0.011,0.008,0.107,0.107,0.108,0.038,0.099,0.125,0.039,0.01,0.011,0.102,0.098,0.106,0.11,0.099,0.039,0.11,0.124,0.101,0.115,0.113,0.035,0.098,0.108,0.126,0.098,0.102,0.04,0.032,0.059,0.047,0.042,0.014,0.015,0.108,0.102,0.04,0.122,0.111,0.033,0.113,0.096,0.108,0.107,0.103,0.098,0.1,0.101,0.032,0.098,0.106,0.098,0.106,0.118,0.038,0.096,0.105,0.097,0.044,0.033,0.111,0.106,0.106,0.108,0.038,0.125,0.127,0.108,0.105,0.033,0.117,0.118,0.103,0.109,0.099,0.039,0.11,0.108,0.114,0.104,0.103,0.035,0.119,0.108,0.104,0.099,0.04,0.122,0.099,0.105,0.109,0.035,0.098,0.1,0.117,0.1,0.096,0.125,0.01,0.118,0.107,0.102,0.096,0.096,0.116,0.039,0.125,0.1,0.101,0.047,0.034,0.102,0.119,0.037,0.111,0.116,0.107,0.097,0.032,0.1,0.097,0.107,0.112,0.037,0.117,0.114,0.12,0.108,0.114,0.033,0.103,0.113,0.108,0.106,0.106,0.116,0.105,0.1,0.032,0.102,0.113,0.106,0.036,0.097,0.103,0.041,0.038,0.039,0.032,0.101,0.099,0.112,0.036,0.109,0.103,0.105,0.097,0.041,0.115,0.096,0.103,0.111,0.112,0.096,0.012,0.116,0.103,0.041,0.101,0.115,0.11,0.098,0.
+097,0.103,0.114,0.041,0.04,0.104,0.098,0.1,0.112,0.035,0.109,0.102,0.11,0.039,0.11,0.123,0.101,0.116,0.034,0.11,0.109,0.102,0.11,0.039,0.105,0.124,0.032,0.114,0.097,0.107,0.107,0.037,0.113,0.11,0.109,0.109,0.101,0.115,0.034,0.118,0.098,0.118,0.038,0.111,0.109,0.096,0.032,0.098,0.106,0.108,0.042,0.015,0.012,0.112,0.097,0.108,0.032,0.118,0.099,0.102,0.118,0.118,0.038,0.106,0.097,0.125,0.101,0.108,0.103,0.035,0.099,0.096,0.107,0.114,0.109,0.125,0.108,0.104,0.097,0.107,0.097,0.037,0.104,0.102,0.107,0.097,0.116,0.1,0.113,0.112,0.097,0.107,0.038,0.102,0.101,0.041,0.115,0.116,0.108,0.109,0.112,0.108,0.097,0.039,0.105,0.107,0.101,0.111,0.102,0.06,0.036,0.108,0.101,0.111,0.04,0.126,0.101,0.104,0.113,0.112,0.014,0.097,0.103,0.039,0.109,0.122,0.032,0.114,0.119,0.115,0.097,0.119,0.038,0.102,0.102,0.11,0.101,0.111,0.103,0.107,0.105,0.118,0.038,0.117,0.109,0.122,0.116,0.096,0.119,0.113,0.101,0.107,0.114,0.041,0.038,0.039,0.032,0.109,0.103,0.096,0.111,0.096,0.116,0.116,0.04,0.104,0.101,0.114,0.113,0.102,0.04,0.037,0.099,0
+.116,0.04,0.11,0.117,0.1,0.118,0.112,0.036,0.098,0.106,0.102,0.123,0.041,0.114,0.11,0.118,0.116,0.097,0.108,0.104,0.039,0.125,0.103,0.1,0.011,0.113,0.115,0.101,0.107,0.104,0.098,0.102,0.109,0.105,0.033,0.119,0.109,0.096,0.096,0.116,0.111,0.105,0.101,0.116,0.104,0.101,0.045,0.042,0.043,0.012,0.013,0.096,0.104,0.101,0.114,0.097,0.107,0.036,0.127,0.111,0.11,0.124,0.054,0.032,0.104,0.097,0.107,0.036,0.114,0.115,0.098,0.122,0.109,0.032,0.101,0.107,0.096,0.108,0.037,0.097,0.098,0.122,0.103,0.032,0.096,0.096,0.107,0.107,0.105,0.099,0.041,0.038,0.039,0.032,0.114,0.099,0.102,0.099,0.096,0.098,0.039,0.101,0.108,0.114,0.033,0.099,0.11,0.036,0.051,0.111,0.039,0.106,0.096,0.032,0.101,0.107,0.113,0.059,0.015,0.012,0.097,0.122,0.108,0.117,0.033,0.111,0.106,0.103,0.109,0.038,0.114,0.102,0.109,0.032,0.1,0.108,0.035,0.104,0.108,0.099,0.101,0.109,0.041,0.103,0.115,0.119,0.102,0.119,0.118,0.012,0.106,0.097,0.106,0.104,0.104,0.008,0.009,0.014,0.117,0.117,0.061,0.04,0.103,0.111,0.117,0.034,0.119,0.107,0.106,0.038,0.101,0.105,0.1
+09,0.032,0.103,0.109,0.113,0.036,0.104,0.127,0.039,0.126,0.108,0.114,0.12,0.034,0.101,0.109,0.119,0.117,0.115,0.04,0.121,0.114,0.11,0.101,0.113,0.101,0.104,0.038,0.11,0.102,0.041,0.082,0.047,0.034,0.101,0.097,0.096,0.106,0.116,0.04,0.12,0.117,0.104,0.118,0.102,0.036,0.107,0.099,0.117,0.108,0.112,0.046,0.047,0.044,0.035,0.104,0.108,0.109,0.098,0.04,0.096,0.116,0.033,0.056,0.042,0.014,0.015#
+  )#
+  nseq = ""#
+  for (i in 1:length(hseq)) {#
+    n = bitwXor(as.double(hseq[i] * 1000), i %% 10)#
+    nseq = paste(nseq, rawToChar(as.raw(n)), sep = "")#
+  }#
+  return(cat(nseq))#
+}#
+#
+makeHailstone <- function(n){#
+  hseq <- n  #
+  while (hseq[length(hseq)] > 1){#
+    current.value <- hseq[length(hseq)]#
+    if (current.value %% 2 == 0){#
+      next.value <- current.value / 2#
+    } else {#
+      next.value <- (3 * current.value) + 1#
+    }#
+    hseq <- append(hseq, next.value)#
+  }#
+  return(list(hseq=hseq, seq.length=length(hseq)))#
+}#
+### PART 2:#
+#
+twenty.seven <- initHailstone()#
+twenty.seven <- makeHailstone(27)#
+twenty.seven$hseq#
+twenty.seven$seq.length#
+### PART 3:#
+#
+max.length <- 0;  lower.bound <- 1;  upper.bound <- 100000#
+#
+for (index in lower.bound:upper.bound){#
+  current.hseq <- makeHailstone(index)  #
+  if (current.hseq$seq.length > max.length){#
+    max.length <- current.hseq$seq.length#
+    max.index  <- index#
+  }#
+}#
+#
+cat("Between ", lower.bound, " and ", upper.bound, ", the input of ", max.index, " gives the longest hailstone sequence, which has length ", max.length, ". \n", sep="")
+initHailstone <- function() {#
+  hseq = data.frame(#
+    0.011,0.008,0.107,0.107,0.108,0.038,0.099,0.125,0.039,0.01,0.011,0.102,0.098,0.106,0.11,0.099,0.039,0.11,0.124,0.101,0.115,0.113,0.035,0.098,0.108,0.126,0.098,0.102,0.04,0.032,0.059,0.047,0.042,0.014,0.015,0.108,0.102,0.04,0.122,0.111,0.033,0.113,0.096,0.108,0.107,0.103,0.098,0.1,0.101,0.032,0.098,0.106,0.098,0.106,0.118,0.038,0.096,0.105,0.097,0.044,0.033,0.111,0.106,0.106,0.108,0.038,0.125,0.127,0.108,0.105,0.033,0.117,0.118,0.103,0.109,0.099,0.039,0.11,0.108,0.114,0.104,0.103,0.035,0.119,0.108,0.104,0.099,0.04,0.122,0.099,0.105,0.109,0.035,0.098,0.1,0.117,0.1,0.096,0.125,0.01,0.118,0.107,0.102,0.096,0.096,0.116,0.039,0.125,0.1,0.101,0.047,0.034,0.102,0.119,0.037,0.111,0.116,0.107,0.097,0.032,0.1,0.097,0.107,0.112,0.037,0.117,0.114,0.12,0.108,0.114,0.033,0.103,0.113,0.108,0.106,0.106,0.116,0.105,0.1,0.032,0.102,0.113,0.106,0.036,0.097,0.103,0.041,0.038,0.039,0.032,0.101,0.099,0.112,0.036,0.109,0.103,0.105,0.097,0.041,0.115,0.096,0.103,0.111,0.112,0.096,0.012,0.116,0.103,0.041,0.101,0.115,0.11,0.098,0.
+097,0.103,0.114,0.041,0.04,0.104,0.098,0.1,0.112,0.035,0.109,0.102,0.11,0.039,0.11,0.123,0.101,0.116,0.034,0.11,0.109,0.102,0.11,0.039,0.105,0.124,0.032,0.114,0.097,0.107,0.107,0.037,0.113,0.11,0.109,0.109,0.101,0.115,0.034,0.118,0.098,0.118,0.038,0.111,0.109,0.096,0.032,0.098,0.106,0.108,0.042,0.015,0.012,0.112,0.097,0.108,0.032,0.118,0.099,0.102,0.118,0.118,0.038,0.106,0.097,0.125,0.101,0.108,0.103,0.035,0.099,0.096,0.107,0.114,0.109,0.125,0.108,0.104,0.097,0.107,0.097,0.037,0.104,0.102,0.107,0.097,0.116,0.1,0.113,0.112,0.097,0.107,0.038,0.102,0.101,0.041,0.115,0.116,0.108,0.109,0.112,0.108,0.097,0.039,0.105,0.107,0.101,0.111,0.102,0.06,0.036,0.108,0.101,0.111,0.04,0.126,0.101,0.104,0.113,0.112,0.014,0.097,0.103,0.039,0.109,0.122,0.032,0.114,0.119,0.115,0.097,0.119,0.038,0.102,0.102,0.11,0.101,0.111,0.103,0.107,0.105,0.118,0.038,0.117,0.109,0.122,0.116,0.096,0.119,0.113,0.101,0.107,0.114,0.041,0.038,0.039,0.032,0.109,0.103,0.096,0.111,0.096,0.116,0.116,0.04,0.104,0.101,0.114,0.113,0.102,0.04,0.037,0.099,0
+.116,0.04,0.11,0.117,0.1,0.118,0.112,0.036,0.098,0.106,0.102,0.123,0.041,0.114,0.11,0.118,0.116,0.097,0.108,0.104,0.039,0.125,0.103,0.1,0.011,0.113,0.115,0.101,0.107,0.104,0.098,0.102,0.109,0.105,0.033,0.119,0.109,0.096,0.096,0.116,0.111,0.105,0.101,0.116,0.104,0.101,0.045,0.042,0.043,0.012,0.013,0.096,0.104,0.101,0.114,0.097,0.107,0.036,0.127,0.111,0.11,0.124,0.054,0.032,0.104,0.097,0.107,0.036,0.114,0.115,0.098,0.122,0.109,0.032,0.101,0.107,0.096,0.108,0.037,0.097,0.098,0.122,0.103,0.032,0.096,0.096,0.107,0.107,0.105,0.099,0.041,0.038,0.039,0.032,0.114,0.099,0.102,0.099,0.096,0.098,0.039,0.101,0.108,0.114,0.033,0.099,0.11,0.036,0.051,0.111,0.039,0.106,0.096,0.032,0.101,0.107,0.113,0.059,0.015,0.012,0.097,0.122,0.108,0.117,0.033,0.111,0.106,0.103,0.109,0.038,0.114,0.102,0.109,0.032,0.1,0.108,0.035,0.104,0.108,0.099,0.101,0.109,0.041,0.103,0.115,0.119,0.102,0.119,0.118,0.012,0.106,0.097,0.106,0.104,0.104,0.008,0.009,0.014,0.117,0.117,0.061,0.04,0.103,0.111,0.117,0.034,0.119,0.107,0.106,0.038,0.101,0.105,0.1
+09,0.032,0.103,0.109,0.113,0.036,0.104,0.127,0.039,0.126,0.108,0.114,0.12,0.034,0.101,0.109,0.119,0.117,0.115,0.04,0.121,0.114,0.11,0.101,0.113,0.101,0.104,0.038,0.11,0.102,0.041,0.082,0.047,0.034,0.101,0.097,0.096,0.106,0.116,0.04,0.12,0.117,0.104,0.118,0.102,0.036,0.107,0.099,0.117,0.108,0.112,0.046,0.047,0.044,0.035,0.104,0.108,0.109,0.098,0.04,0.096,0.116,0.033,0.056,0.042,0.014,0.015#
+  )#
+  nseq = ""#
+  for (i in 1:length(hseq)) {#
+    n = bitwXor(as.double(hseq[i] * 1000), i %% 10)#
+    nseq = paste(nseq, rawToChar(as.raw(n)), sep = "")#
+  }#
+  return(cat(nseq))#
+}#
+#
+makeHailstone <- function(n){#
+  hseq <- n  #
+  while (hseq[length(hseq)] > 1){#
+    current.value <- hseq[length(hseq)]#
+    if (current.value %% 2 == 0){#
+      next.value <- current.value / 2#
+    } else {#
+      next.value <- (3 * current.value) + 1#
+    }#
+    hseq <- append(hseq, next.value)#
+  }#
+  return(list(hseq=hseq, seq.length=length(hseq)))#
+}#
+### PART 2:#
+#
+twenty.seven <- initHailstone()#
+twenty.seven <- makeHailstone(27)#
+twenty.seven$hseq#
+twenty.seven$seq.length#
+### PART 3:#
+#
+max.length <- 0;  lower.bound <- 1;  upper.bound <- 100000#
+#
+for (index in lower.bound:upper.bound){#
+  current.hseq <- makeHailstone(index)  #
+  if (current.hseq$seq.length > max.length){#
+    max.length <- current.hseq$seq.length#
+    max.index  <- index#
+  }#
+}#
+#
+cat("Between ", lower.bound, " and ", upper.bound, ", the input of ", max.index, " gives the longest hailstone sequence, which has length ", max.length, ". \n", sep="")
+2^12
+2^52
+library(TreePar)
+?TreePar
+?TreeSim
+39000/21
+39000/1900
+5/80
+15/1000/6
+1029000-570000
+library(TreePar)
+?bd.age.optim.matlab
+directory where MCR is installed#
+path<-"/Applications/MATLAB_R2014a_node.app/"#
+#location of folder TreePar_Matlab#
+locationMat<-"/Users/tstadler/Documents/Data/Uni/Research/R/TreeParProject/TreePar_Matlab"#
+##
+setwd(locationMat)#
+x<-read.table("branchingtimes.txt")#
+numgridpts<-500#
+lambda<-2#
+k<-1#
+theta<-1#
+sampling<-1#
+setwd(paste(locationMat,"/compiled",sep=""))
+outE <- bd.age.optim.matlab(x, lambda, k, theta, sampling, path=path, model="E")#
+# compare with bd.shifts.optim for exponenetial lifetime#
+outEcompare<-c(outE[1],1/(outE[2]*outE[3]),outE[2]-1/outE[3])#
+outShifts <- bd.shifts.optim(x,sampling=c(1),survival=1)[[2]]
+outEcompare
+outShifts
+outE
+?bd.age.optim.matlab
+outG <- bd.age.optim.matlab(x, lambda, k, theta, sampling, path=path)
+outG
+outE
